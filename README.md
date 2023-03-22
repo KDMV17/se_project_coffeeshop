@@ -11,6 +11,8 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
+Github Pages URL: https://kdmv17.github.io/se_project_coffeeshop/
+
 ## Plan on improving the project
 
 Add your ideas here :)
